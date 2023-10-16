@@ -3,7 +3,7 @@ from src.pathfinder import Pathfinder
 from src.gameState import gameState
 from src.display import Display
 
-screenW = 1600
+screenW = 800
 screenH = 800
 
 # pygame setup
@@ -13,7 +13,7 @@ clock = pygame.time.Clock()
 running = True
 
 rows = 10
-cols = 20
+cols = 10
 
 map = [[0 for x in range(cols)] for y in range(rows)]
 map[3][1] = 1
