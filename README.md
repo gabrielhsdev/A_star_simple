@@ -34,7 +34,7 @@ pip install pygame
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/A_star_simple.git
+git clone https://github.com/gabrielhsdev/A_star_simple.git
 ```
 
 2. Navigate to the project directory:
